@@ -1,0 +1,40 @@
+nyx-space/anise	293	61	MPL-2.0	Rust	2026-11-11
+nasa/GMAT	150	27	Apache-2.0	C++	2026-11-10
+jorgepiloto/lamberthub	81	10	GPL-3.0	Python	2026-11-14
+nyx-space/nyx	510	48	AGPL-3.0	Rust	2026-11-13
+esa/pagmo2	941	195	GPL-3.0	C++	2026-11-12
+poliastro/poliastro	1018	311	MIT	Python	2023-10-14
+esa/pykep	430	115	MPL-2.0	C++	2026-11-10
+AndrewAnnex/SpiceyPy	495	96	MIT	Python	2026-11-11
+tudat-team/tudatpy	103	58	BSD-3-Clause	C++	2026-11-15
+ericstoneking/42	468	114	none	C	2026-10-21
+AVSLab/basilisk	422	149	ISC	C	2026-11-14
+CDNoyes/EDL-Py	17	3	GPL-3.0	Jupyter Notebook	2023-12-01
+nasa/trick	184	77	NOASSERTION	C++	2026-11-13
+nasa/cFS	1576	417	Apache-2.0	C	2026-11-15
+nasa/fprime	11880	1798	Apache-2.0	C++	2026-11-14
+agh-space-systems-rover/kalman_robot	54	6	MIT	Python	2026-11-15
+nasa-jpl/m2020-urdf-models	116	14	none	none	2023-06-07
+nasa-jpl/open-source-rover	9779	1523	Apache-2.0	HTML	2026-11-06
+nasa-jpl/osr-android-app	80	33	Apache-2.0	Java	2023-09-24
+nasa-jpl/osr-rover-code	547	184	Apache-2.0	Python	2026-10-22
+space-ros/demos	59	60	Apache-2.0	Python	2026-10-31
+space-ros/space-ros	251	56	none	Dockerfile	2026-11-14
+DOI-USGS/ale	19	40	NOASSERTION	XC	2026-11-12
+DOI-USGS/ISIS3	246	182	NOASSERTION	C++	2026-11-13
+NeoGeographyToolkit/StereoPipeline	627	197	Apache-2.0	C++	2026-11-15
+NASA-AMMOS/MMGIS	240	84	Apache-2.0	JavaScript	2026-11-14
+MarsRaw/mars-raw-utils	56	12	MIT	Rust	2026-11-15
+pro3d-space/PRo3D	43	7	AGPL-3.0	F#	2026-11-13
+NASA-PDS/transform	14	1	Apache-2.0	Java	2026-10-12
+NASA-PDS/validate	23	17	Apache-2.0	Java	2026-11-14
+NASA-Planetary-Science/AmesCAP	12	10	MIT	Python	2026-11-05
+nasa/AmesGCM	26	19	none	Fortran	2026-10-27
+nasa/legacy-mars-global-climate-model	51	16	none	Jupyter Notebook	2023-04-12
+nschorgh/Planetary-Code-Collection	44	15	none	Fortran	2026-11-01
+scottbell/biosim	26	18	GPL-3.0	Java	2026-06-03
+mars-sim/mars-sim	170	52	GPL-3.0	Java	2026-11-14
+CelestiaProject/Celestia	2410	365	GPL-2.0	C++	2026-11-14
+eleanorlutz/mars_geology_atlas_of_space	237	31	GPL-3.0	Jupyter Notebook	2022-11-28
+nasa/NASA-3D-Resources	3866	545	none	none	2025-06-03
+OpenSpace/OpenSpace	1305	219	NOASSERTION	C++	2026-11-14
