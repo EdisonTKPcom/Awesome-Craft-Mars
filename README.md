@@ -16,7 +16,6 @@
 
 Open-source software for getting to Mars, landing, driving rovers, reading imagery and thinking through settlement. Every project has a public repository that was checked on 2026-11-15. Figures on the dashboard are tagged FACT (measured, with a cited source and date), GOAL (a stated plan, not a result) or ESTIMATE (a sum or count computed here). NASA and SpaceX roadmaps in the Plans table are GOAL. This list does not present target dates as facts, does not include unverified cost claims, and the pixel banner is an original scene without company logos or wordmarks.
 
-Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), a family of curated open-source lists, and [Awesome Craft Space](https://github.com/EdisonTKPcom/Awesome-Craft-Space), open-source tools for spaceflight and rockets.
 
 ## Contents
 
@@ -30,6 +29,9 @@ Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), a
 - [Settlement planning](#settlement-planning)
 - [Games and education](#games-and-education)
 - [Plans](#plans)
+- [Related lists](#related-lists)
+- [Star history](#star-history)
+
 
 ## Dashboard
 
@@ -185,6 +187,34 @@ Official architecture and timeline statements. Every row is tagged GOAL. A publi
 <tr><td><span style="display:inline-block;border:2px dashed #d97706;color:#d97706;padding:0 7px;border-radius:4px;font-weight:700;">GOAL</span></td><td>SpaceX describes a long-term aim of a self-sufficient city on Mars, with crew and cargo moved during transfer windows that open about every 26 months. This list does not treat population or cargo totals as measured facts, and it does not repeat cost figures.</td><td>SpaceX Mission: Mars</td><td>Page fetched 2026-11-15</td></tr>
 <tr><td><span style="display:inline-block;border:2px dashed #d97706;color:#d97706;padding:0 7px;border-radius:4px;font-weight:700;">GOAL</span></td><td>On 28 May 2025 SpaceX published a Starship talk titled Mars 2026, in which the company presents plans to make life multiplanetary. Specific unofficial retellings of that talk are not cited here.</td><td><a href="https://www.spacex.com/content/starship-talks/mars-2026">SpaceX Starship Talks: Mars 2026</a></td><td>Talk dated 2025-05-28; page fetched 2026-11-15</td></tr>
 </table>
+
+## Related lists
+
+Other lists in the Awesome Craft series:
+
+- [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft) - A curated list of open-source, self-hostable alternatives to popular SaaS tools.
+- [Awesome Craft Agents](https://github.com/EdisonTKPcom/Awesome-Craft-Agents) - A curated list of open-source chat apps, coding agents, self-hosted agent bots, workflow automation and image-generation UIs.
+- [Awesome Craft AI](https://github.com/EdisonTKPcom/Awesome-Craft-AI) - A curated list of open-source, self-hostable AI runtimes, servers, Hugging Face libraries and related infrastructure.
+- [Awesome Craft BSC](https://github.com/EdisonTKPcom/Awesome-Craft-BSC) - A curated list of verified open-source clients, SDKs, dev tools and protocol code for BNB Smart Chain and opBNB.
+- [Awesome Craft CUDA](https://github.com/EdisonTKPcom/Awesome-Craft-CUDA) - A curated list of open-source CUDA learning material, kernel libraries, tooling and portability projects.
+- [Awesome Craft DeepSeek](https://github.com/EdisonTKPcom/Awesome-Craft-DeepSeek) - A curated list of official DeepSeek repositories and open-source harnesses, serving engines, eval tools and fine-tuning stacks that work with DeepSeek models.
+- [Awesome Craft DevOps](https://github.com/EdisonTKPcom/Awesome-Craft-DevOps) - A curated list of open-source, self-hostable alternatives to popular DevOps and hosting SaaS tools.
+- [Awesome Craft DNA](https://github.com/EdisonTKPcom/Awesome-Craft-DNA) - A curated list of open-source tools for DNA, genomics and synthetic biology.
+- [Awesome Craft Ethereum](https://github.com/EdisonTKPcom/Awesome-Craft-Ethereum) - A curated list of verified open-source Ethereum clients, SDKs, dev frameworks, wallets and security tools.
+- [Awesome Craft EV](https://github.com/EdisonTKPcom/Awesome-Craft-EV) - A curated list of open-source software and hardware for electric vehicles and charging.
+- [Awesome Craft Hardware](https://github.com/EdisonTKPcom/Awesome-Craft-Hardware) - A curated list of open-source tools for PCB, FPGA, ASIC and chip design.
+- [Awesome Craft Hyperliquid](https://github.com/EdisonTKPcom/Awesome-Craft-Hyperliquid) - A curated list of verified open-source SDKs, node tools, analytics and community libraries for the Hyperliquid ecosystem.
+- [Awesome Craft Malaysia](https://github.com/EdisonTKPcom/Awesome-Craft-Malaysia) - A curated list of open-source tools useful to Malaysian SMEs, with verified MyInvois support called out separately.
+- [Awesome Craft Neuro](https://github.com/EdisonTKPcom/Awesome-Craft-Neuro) - A curated list of open-source tools for brain-computer interfaces, electrophysiology and neurotechnology.
+- [Awesome Craft Robotics](https://github.com/EdisonTKPcom/Awesome-Craft-Robotics) - A curated list of open-source robotics software and hardware, including Microduck, Unitree SDKs, open humanoids, arms, simulation and middleware.
+- [Awesome Craft Solana](https://github.com/EdisonTKPcom/Awesome-Craft-Solana) - A curated list of verified open-source Solana clients, SDKs, frameworks, explorers and program libraries.
+- [Awesome Craft Space](https://github.com/EdisonTKPcom/Awesome-Craft-Space) - A curated list of open-source tools for spaceflight and rockets, covering orbit simulation, telemetry, launch data and more.
+- [Awesome Craft Starlink](https://github.com/EdisonTKPcom/Awesome-Craft-Starlink) - A curated list of open-source tools for Starlink and other LEO satellite internet systems.
+- [Awesome Craft Web3](https://github.com/EdisonTKPcom/Awesome-Craft-Web3) - A curated list of open-source DEX protocol code, self-custody software, indexers, frameworks and Blockchain infrastructure.
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/chart?repos=EdisonTKPcom/Awesome-Craft-Mars&amp;type=Date)](https://www.star-history.com/#EdisonTKPcom/Awesome-Craft-Mars&Date)
 
 ## Contributing
 
